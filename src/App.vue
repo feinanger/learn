@@ -2,7 +2,6 @@
   <div id="app">
 
     收拾收拾、
-
    6666
   </div>
 </template>
