@@ -1,7 +1,7 @@
 <template>
   <div id="app">
+sss
 
-    收拾收拾、
    6666
   </div>
 </template>
