@@ -1,7 +1,9 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
+
+    收拾收拾、
+
+   6666
   </div>
 </template>
 
